@@ -1,0 +1,30 @@
+body{
+    background-color: slategray;
+}
+
+h1, p{
+    color: aquamarine;
+    font-size: 100px;
+    font-family: sans-serif;
+    border: 10px solid;
+    text-align: center;
+}
+
+.login{ 
+    text-emphasis-color: black;
+    color: aquamarine;
+    text-align: center;
+    font-size: 25px;
+}
+
+.login:hover{
+    color: black;
+}
+
+h1:hover{
+    color: black;
+}
+
+p:hover{
+    color: black;
+}
